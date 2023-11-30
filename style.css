@@ -13,12 +13,12 @@ html {
 
 .footer a:visited {
     text-decoration: none;
-    color: #ffffff;
+    color: #ecf3ec;
     font-style: italic;
 }
 
 .footer a:link {
-    color: #ffffff;
+    color: #ecf3ec;
     text-decoration:none;
     font-style: italic;
 }
@@ -38,7 +38,7 @@ html {
 .logo {
     font-size: 40px;
     text-decoration: overline;
-    color:  #ffffff;
+    color:  #ecf3ec;
     font-weight: 700;
 }
 
@@ -46,7 +46,7 @@ html {
     position:relative;
     font-size: 20px;
     text-decoration: none;
-    color: #ffffff;
+    color: #ecf3ec;
     font-weight: 500;
     margin-left: 40px;
 
@@ -59,7 +59,7 @@ html {
     left:0;
     width:0;
     height:2px;
-    background: #ffffff;
+    background: #ecf3ec;
 
 
 }
@@ -103,7 +103,7 @@ main{
     justify-content: center;
     align-items: center;
     font-family: "FreeMono", monospace;
-    color: #ffffff;
+    color: #ecf3ec;
     font-size: medium;
     padding-bottom: 20px;
     
@@ -124,7 +124,7 @@ body {
     justify-content: center;
     place-content: center;
     gap: 40px;
-    color: #ffffff;
+    color: #ecf3ec;
 }
 body img {
     display: block;
