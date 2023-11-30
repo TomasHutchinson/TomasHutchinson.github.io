@@ -125,6 +125,7 @@ body {
     place-content: center;
     gap: 40px;
     color: #ecf3ec;
+    box-shadow: 2px 2px 7px black; 
 }
 body img {
     display: block;
