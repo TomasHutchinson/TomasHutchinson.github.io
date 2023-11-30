@@ -13,12 +13,12 @@ html {
 
 .footer a:visited {
     text-decoration: none;
-    color: #8800ff;
+    color: #ffffff;
     font-style: italic;
 }
 
 .footer a:link {
-    color: #8800ff;
+    color: #ffffff;
     text-decoration:none;
     font-style: italic;
 }
@@ -38,7 +38,7 @@ html {
 .logo {
     font-size: 40px;
     text-decoration: overline;
-    color:  #8800ff;
+    color:  #ffffff;
     font-weight: 700;
 }
 
@@ -46,7 +46,7 @@ html {
     position:relative;
     font-size: 20px;
     text-decoration: none;
-    color: #8800ff;
+    color: #ffffff;
     font-weight: 500;
     margin-left: 40px;
 
@@ -59,13 +59,13 @@ html {
     left:0;
     width:0;
     height:2px;
-    background: #8800ff;
+    background: #ffffff;
 
 
 }
 
 .navbar a:hover::before {
-    width:100%;
+    width:90%;
 }
 
 h1 {
@@ -88,7 +88,7 @@ main{
     font-family: "FreeMono", monospace;
     padding-bottom: 2.5rem;
     margin: 0;
-    background-color: black;
+    background: none;
 }
 
 .footer {
@@ -103,7 +103,7 @@ main{
     justify-content: center;
     align-items: center;
     font-family: "FreeMono", monospace;
-    color: #8800ff;
+    color: #ffffff;
     font-size: medium;
     padding-bottom: 20px;
     
@@ -124,7 +124,7 @@ body {
     justify-content: center;
     place-content: center;
     gap: 40px;
-    color: #8800ff;
+    color: #ffffff;
 }
 body img {
     display: block;
