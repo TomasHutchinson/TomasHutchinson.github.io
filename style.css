@@ -117,7 +117,7 @@ main{
   
 body {
     margin: 0;
-    background: black;
+    background: #7DAFEF;
     display: grid;
     height: 100vh;
     grid-auto-flow :column;
